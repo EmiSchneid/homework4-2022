@@ -40,6 +40,8 @@ div.card {
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
     flex-basis: 450px;
 }
 
